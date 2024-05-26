@@ -9,6 +9,5 @@ Graceful degradation and service workers are related because both involve adding
 
 
 ## PWA
-(This image includes the entire desktop for clarity, hopefully it suffices)
 ![pwa](./pwa.png)
 
